@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 563b90d940993e141937a76199c92f95
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - The Lion King - Spider_0
+    21300002: Genesis 32X SCD - The Lion King - Spider_1
+    21300004: Genesis 32X SCD - The Lion King - Spider_2
+    21300006: Genesis 32X SCD - The Lion King - Spider_3
+    21300008: Genesis 32X SCD - The Lion King - Spider_4
+    21300010: Genesis 32X SCD - The Lion King - Spider_5
+    21300012: Genesis 32X SCD - The Lion King - Spider_6
+    21300014: Genesis 32X SCD - The Lion King - Spider_7
+    21300016: Genesis 32X SCD - The Lion King - Spider_8
+    21300018: Genesis 32X SCD - The Lion King - Spider_9
+    21300020: Genesis 32X SCD - The Lion King - Spider_10
+    21300022: Genesis 32X SCD - The Lion King - Spider_11
+    21300024: Genesis 32X SCD - The Lion King - Spider_12
+    21300026: Genesis 32X SCD - The Lion King - Spider_13
+    21300028: Genesis 32X SCD - The Lion King - Spider_14
+    21300030: Genesis 32X SCD - The Lion King - Spider_15
+    21300032: Genesis 32X SCD - The Lion King - Spider_16
+    21300034: Genesis 32X SCD - The Lion King - Spider_17
+    21300036: Genesis 32X SCD - The Lion King - Spider_18
+    21300038: Genesis 32X SCD - The Lion King - Spider_19
+    21300040: Genesis 32X SCD - The Lion King - Spider_20
+    21300042: Genesis 32X SCD - The Lion King - Spider_21
+    21300044: Genesis 32X SCD - The Lion King - Spider_22
+    21300046: Genesis 32X SCD - The Lion King - Spider_23
+    21300048: Genesis 32X SCD - The Lion King - Spider_24
+    21300050: Genesis 32X SCD - The Lion King - Spider_25
+    21300052: Genesis 32X SCD - The Lion King - Spider_26
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 142
+        width: 73
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346919455c6bbce4497edc4bbe30b36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2f8d7ec8a2784cb1c8a1ec5517459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 106
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc2866fc65db84e83d658566ee772a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6564b6dec4ef4d8dfa57fc43af216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84fa40b8242a64c844afa75b9b1d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 136
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bbb8c6f5c8f3a4ab4dbf5776dbd6c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 136
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a07a251690874a9ee4ad4f65f8f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f5cca65a61b4448cd56f68bc03290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 136
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636cfdaf95d60954e927d07439e9f4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 107
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417e99b9c5d7734894ef75e3e09ba95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe10956a97578418d58e67abfd99bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 106
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f649e8129e71c045ae64165ce139e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 106
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ecc274488969c47a6b916dbdf8a401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 125
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f21d1566b1cbb43b1964f66f94f8e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e45185cb5dd154b99890efbc32efe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96a33354ff40b2488c5c4bd9d75ac76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 127
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed0dfe6f0b73e45a4e684bd77a4de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa60cb58ee2a164448d52403f9d3f474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfd10bd1efac340a04069aa9b819e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 62
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a65d501599d65845a608c2923022a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 63
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601b2f609a0156d46947eb77d1f9e773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa1487c92466849a782500e0ef64f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 62
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0ef2173b9bbe4e90e19dff2be15a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e3d829314c944ca98481fdc8c552e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372c6b4500317943890a55ebba67d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 21
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a16f5d4f147849b9b61ea3cf188dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Lion King - Spider_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 22
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b3be1431f9f94089a1e11b8bb7816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e5fe81b4162016b478d857ea13ee8d4d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

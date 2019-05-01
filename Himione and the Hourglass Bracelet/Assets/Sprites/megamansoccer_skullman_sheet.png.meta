@@ -1,0 +1,1485 @@
+fileFormatVersion: 2
+guid: f310b12c90e26c943aa3ccac8c193256
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megamansoccer_skullman_sheet_0
+    21300002: megamansoccer_skullman_sheet_1
+    21300004: megamansoccer_skullman_sheet_2
+    21300006: megamansoccer_skullman_sheet_3
+    21300008: megamansoccer_skullman_sheet_4
+    21300010: megamansoccer_skullman_sheet_5
+    21300012: megamansoccer_skullman_sheet_6
+    21300014: megamansoccer_skullman_sheet_7
+    21300016: megamansoccer_skullman_sheet_8
+    21300018: megamansoccer_skullman_sheet_9
+    21300020: megamansoccer_skullman_sheet_10
+    21300022: megamansoccer_skullman_sheet_11
+    21300024: megamansoccer_skullman_sheet_12
+    21300026: megamansoccer_skullman_sheet_13
+    21300028: megamansoccer_skullman_sheet_14
+    21300030: megamansoccer_skullman_sheet_15
+    21300032: megamansoccer_skullman_sheet_16
+    21300034: megamansoccer_skullman_sheet_17
+    21300036: megamansoccer_skullman_sheet_18
+    21300038: megamansoccer_skullman_sheet_19
+    21300040: megamansoccer_skullman_sheet_20
+    21300042: megamansoccer_skullman_sheet_21
+    21300044: megamansoccer_skullman_sheet_22
+    21300046: megamansoccer_skullman_sheet_23
+    21300048: megamansoccer_skullman_sheet_24
+    21300050: megamansoccer_skullman_sheet_25
+    21300052: megamansoccer_skullman_sheet_26
+    21300054: megamansoccer_skullman_sheet_27
+    21300056: megamansoccer_skullman_sheet_28
+    21300058: megamansoccer_skullman_sheet_29
+    21300060: megamansoccer_skullman_sheet_30
+    21300062: megamansoccer_skullman_sheet_31
+    21300064: megamansoccer_skullman_sheet_32
+    21300066: megamansoccer_skullman_sheet_33
+    21300068: megamansoccer_skullman_sheet_34
+    21300070: megamansoccer_skullman_sheet_35
+    21300072: megamansoccer_skullman_sheet_36
+    21300074: megamansoccer_skullman_sheet_37
+    21300076: megamansoccer_skullman_sheet_38
+    21300078: megamansoccer_skullman_sheet_39
+    21300080: megamansoccer_skullman_sheet_40
+    21300082: megamansoccer_skullman_sheet_41
+    21300084: megamansoccer_skullman_sheet_42
+    21300086: megamansoccer_skullman_sheet_43
+    21300088: megamansoccer_skullman_sheet_44
+    21300090: megamansoccer_skullman_sheet_45
+    21300092: megamansoccer_skullman_sheet_46
+    21300094: megamansoccer_skullman_sheet_47
+    21300096: megamansoccer_skullman_sheet_48
+    21300098: megamansoccer_skullman_sheet_49
+    21300100: megamansoccer_skullman_sheet_50
+    21300102: megamansoccer_skullman_sheet_51
+    21300104: megamansoccer_skullman_sheet_52
+    21300106: megamansoccer_skullman_sheet_53
+    21300108: megamansoccer_skullman_sheet_54
+    21300110: megamansoccer_skullman_sheet_55
+    21300112: megamansoccer_skullman_sheet_56
+    21300114: megamansoccer_skullman_sheet_57
+    21300116: megamansoccer_skullman_sheet_58
+    21300118: megamansoccer_skullman_sheet_59
+    21300120: megamansoccer_skullman_sheet_60
+    21300122: megamansoccer_skullman_sheet_61
+    21300124: megamansoccer_skullman_sheet_62
+    21300126: megamansoccer_skullman_sheet_63
+    21300128: megamansoccer_skullman_sheet_64
+    21300130: megamansoccer_skullman_sheet_65
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c37c5ce9ff05ad47a3205c0e16b3ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 226
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb57e106e4e9b464e9fc3250bbd3bd79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 218
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827ffce4cb438a4f8a919da95f75870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 225
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc25508fd936d41b57402edb61d125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b4f2a382ee4f42bba7b5ed5479b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 227
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115ac9f022f34541b992dec6a932c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 214
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf1d9f027b662499f0e0fba49af580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 225
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f017e364605dad46a62a68f0865f153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 209
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41840088da398c044aec3b21e0339d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f347bad00dd53994dad4096aeed9d8ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 213
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f8e4111a35c5e42919851f8386acb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebec779ccd99843b2371b69441043b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 214
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1637266c9b2dbe543bb2b37a05725e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 211
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8a1d9fede239645918da989d953b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 214
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d75ca8b8fd64844bddc648ddb2b3bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 211
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b40406a6a817644ad461be9edfa82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 214
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a060b27479b44b91b2710367e1bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 208
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09e6a1b892f214480b1fcf29bce6a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 198
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a1ade6399a744db6c47c9012f0294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba75c6382c58d44b96228bc28e13599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 195
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3780e30a0f42d0644b1502d9f99ebea9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287e904a6c75b14baf83d8dde529ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402d5f96d1cd4b49baf7d6473c9c328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 158
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94042d6e36aa92b42b1504e6e7c5a93f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 158
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f451559834e0c4a479b62944a4492ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 158
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54417f50f65e857408906ff70c66eb2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef169fc02034594e9dca1a204ce256b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 159
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ebfc59e32bee439a161f4e9738643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474aad7e889e6648928d5986817e992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 159
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b392f67c4bb344a7a27c7bbe588d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 162
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f818dbe10e85094eb8e4d9e5fb9ba8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 162
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55c763ffa34e847b5e82df240b7fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c85a8204a49a549b57e68d023c575a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a65d9c5b09aee4582de2f6bd299515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 119
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce461debd52c0f40a9e392f08badfee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 119
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba7d696a1dfbc4b9192e902447a914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 119
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e1495707cec6145832e43ddc47429c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 119
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ebefe698217442b30295dabeff1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 118
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3332fb15a69f4dba43d10e86d21dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 119
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e260b3c408faf447b0e1b6bff6b19e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 121
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5fe8ff008e11a42a25f2a2de63ae6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 121
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1af530ca9e964a9682d35fed1fc85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9931d68c7fd63684ca340cdc49372a59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffbbefe23087fd41916a1ddf85a640d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00ff28f0e93574b8b562f325d6aecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 80
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e221bb06031d35429beaf7a268762a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5eb7d2821b39840b213c64c6c53746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be9fa9133a7f3e45b0824960532bcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 79
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b0688832d2bd4a8af751ac4992660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 79
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b97ecb8713a444db2b6237ed88186d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 79
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b42690bdef144449ab5825095f0f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 77
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce9ec62d999e13428cb2d9abc95dd66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c58514498e0ce4889eb4e4d0a9517e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea45b31b09a0d4497d8233890ff9a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 39
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea5a6495b82d604daaa8dab77b78d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362772a1738b2de40aac0a35e087459e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 43
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794bd42655e7654d87ea35bba6cf09a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 43
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e5f778350c354b8694764a212f5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625534d12e9ac24cae28f5272295aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 45
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e27ef551c8354c97eaa2462e8dc9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff377345aa96f24383360a2a30437cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c7355f2d5011d478d357bb1c3a9ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77a8b242449d6c42a345ca6ed376e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc86befe885cc498860f98b5eb7098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 6
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3154de90ccd44fa17cce5964309a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: megamansoccer_skullman_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 6
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80449fa6e59a44d9e2f5a803d0ff6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 701b084be248fc341a90e3b8594bd2be
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
